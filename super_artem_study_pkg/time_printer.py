@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Узел, который каждые 5 секунд выводит текущее время."""
+
 
 import time
 import rclpy
